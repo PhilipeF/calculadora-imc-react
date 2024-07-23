@@ -74,7 +74,7 @@ const Form = () => {
                 <li>Entre 18,5 e 24,9 — Peso considerado na faixa saudável</li>
                 <li>Entre 25 e 29,9 — Peso na faixa sobre peso </li>
                 <li>Entre 30 e 39,9 — Peso na faixa da obesidade</li>
-                <li>Maiores que 40 — sobrepeso obesidade;</li>
+                <li>Maiores que 40 — Sobrepeso obesidade grau II</li>
             </ul>
         </div>
     )
