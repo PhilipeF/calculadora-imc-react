@@ -4,7 +4,7 @@ import './global.css';
 function App() {
 
   return (
-    <Form />
+    <Form calc/>
   )
 }
 
