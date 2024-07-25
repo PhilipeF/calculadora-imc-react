@@ -2,7 +2,7 @@ import { useState } from 'react';
 import styles from './Perfil.module.css';
 import ReactInputMask from 'react-input-mask';
 
-import calcularImc from '../../hooks/calculadoraImc';
+import calcularImc from '../../utils/imcUtils';
 
 const Form = () => {
 
